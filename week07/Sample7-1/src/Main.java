@@ -17,7 +17,5 @@ public class Main {
             result = (float) num1 / num2;
             System.out.printf("%d / %d = %.2f\n", num1, num2, result);
         }
-
-        keyboard.close();
     }
 }
