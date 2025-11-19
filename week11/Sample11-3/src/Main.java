@@ -18,6 +18,7 @@ public class Main {
         }
 
         // 테이블 출력
+
         System.out.println("***************************************");
         System.out.println("년도\t1분기\t2분기\t3분기\t4분기\t합계\t평균");
         System.out.println("***************************************");
